@@ -1,0 +1,9 @@
+title: It lives!
+author: Goynang
+date: 2013/01/29
+
+TeamSquad has lived in darkness for too long. It's time to shine a torch into its dark recesses.
+
+So much development. So much history. So many different languages and frameworks. So much experimentation. So much learnt. So little launched.
+
+It's time to share.
