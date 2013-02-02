@@ -7,11 +7,17 @@
     <title><%= title %></title>
   </head>
   <body>
+    <header class="site">
+      <a href="/">
+        <span class="logotype-team">team</span><span class="logotype-squad">squad</span>
+        <span class="tagline">the changing room blog</span>
+      </a>
+    </header>
     <section>
       <%= yield %> 
     </section>
     <footer>
-      powered by <a href="http://cloudhead.io/toto">toto</a>
+      <p>Powered by <a href="http://cloudhead.io/toto">toto</a></p>
     </footer>
   </body>
 </html>
