@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'toto'
-gem 'rack'
+gem 'rack', "1.4.4"
 gem 'builder'
 gem 'rdiscount'
+gem 'toto', :git => 'https://github.com/goynang/toto.git'
