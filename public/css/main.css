@@ -22,8 +22,8 @@ body {
   min-width: 300px;
   max-width: 640px;
   
-  color: #777;
-  font-family: Georgia, serif;
+  color: #666;
+  font-family: 'Helvetica Neue', arial, sans-serif;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -89,8 +89,8 @@ h1 {
 }
 
 h2 {
-  margin: 0 0 1em 0
-  font-size: 1.4em;
+  margin: 1em 0;
+  font-size: 1.33em;
 }
 
 article {
@@ -125,7 +125,6 @@ a:hover {
 }
 
 p {
-  font-size: 1.1em;
   line-height: 1.5;
   margin: 1em 0 0 0;
 }
@@ -152,6 +151,14 @@ p {
     text-align: right;
     margin: 0 0 1em 0;
   }
+  
+em {
+  background: #FFFFF8;
+  font-style: normal;
+  color: #333;
+  display: inline-block;
+  padding: 2px 3px;
+}
   
 section.comments {
   margin: 2em 0 0 0;
