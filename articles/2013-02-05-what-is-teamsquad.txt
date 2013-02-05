@@ -1,0 +1,35 @@
+title: What is teamsquad?
+author: Stephen
+date: 2013/02/05
+
+Teamsquad is a website to help people involved with *local and amateur sport*, either as a player or as the person organising things. All types of sports are supported - from football to cricket, tennis to rugby. Basically anything that has games, and points, and leagues or cups.
+
+There are quite a few websites around that can do this but none that really make it all as easy as it should be. *This stuff should be easy and fun*. We all want to spend time playing sport - not working organising it. Unless your name's Clive and you have a beard of course.
+
+What you can do as an organiser
+-------------------------------
+
+If you are the person that sets things up then teamsquad can help you...
+
+- create fixture lists
+- record results
+- display league tables
+- handle knock out cups
+
+...and plenty of other useful stuff besides.
+
+It's designed to be flexible so it can handle simple little four team league between mates up to complex tournaments with a mixture of groups and knockout stages.
+
+Once you've registered your organisation you can set up your competitions and teams. From there you can start adding matches, entering results, and generally doing all the stuff that keeps things ticking over.
+
+League tables and cup listings *update automatically*. So long as you add your fixtures and enter the results everything else takes care of itself. It's all super simple and designed to be used by anyone that can wiggle a mouse around or tap on a tablet. *No special web skills required*.
+
+What you get as a player
+------------------------
+
+It shouldn't be a chore to see when your next match is or check your position in the league table. Teamsquad makes this painless. No need to register or sign up for anything. Easy.
+
+Sound's great... where do I sign up?
+------------------------------------
+
+Teamsquad isn't publicly available yet. But it's coming so stay tuned.
