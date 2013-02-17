@@ -1,0 +1,19 @@
+title: Sneak peek
+author: Stephen
+date: 2013/02/17
+
+Whilst TeamSquad isn't curently live that doesn't mean it doesn't exist. It runs behind closed doors and has gone through numerous face lifts over the years. Here's a sneak peek at how it looks for a few typical pages.
+
+Group stages for an example competition...
+
+<img src="/images/grab1.jpg">
+
+Calendar (to show when matches are)...
+
+<img src="/images/grab2.jpg">
+
+Fixtures for a competition...
+
+<img src="/images/grab3.jpg">
+
+It's all deliberatelty very simple with the intention being to show the information that matters with the minimum of fuss.
