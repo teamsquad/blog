@@ -1,0 +1,9 @@
+title: Sneak peek 2
+author: Stephen
+date: 2013/02/20
+
+The design has come along a bit in the last few days. Now it looks like this...
+
+<img src="/images/grab4.png">
+
+...and contains a dash of Responsive Web Design so it works pretty well on mobiles too.
